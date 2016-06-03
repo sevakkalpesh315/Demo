@@ -9,8 +9,7 @@ import android.util.Log;
 
 import java.util.ArrayList;
 
-public class
-		DatabaseHandler extends SQLiteOpenHelper {
+public class DatabaseHandler extends SQLiteOpenHelper {
 
     // All Static variables
     // Database Version
